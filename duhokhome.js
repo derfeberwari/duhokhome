@@ -7,7 +7,9 @@
        "kurdi":"کوردی",
        "badini":"ئه‌و ياريكه‌رێ پێشتر ئه‌رسینال نه‌شیایی ببه‌ت دهۆكێ بده‌ستڤه‌ ئینا یاریكه‌رێ پێشتر یێ یانه‌یا برایتون یا ئنگلیزی و یانه‌یێن مالمو و ئوریبورو یێن سویدی پیته‌ر گورگیس دهۆكا داسنیا هه‌لبژارت .",
        "arabic":"عربي",
-        "arabicc":"اللاعب اللذي لم يظفر ارسنال بجهوده ظفر به نادي دهوكتعاقد نادي دهوك مع لاعب نادي اندية برايتون الإنكليزي و مالمو و اوريبرو السويديين والمنتخب العراقي پيتر گورگيس ."
+        "arabicc":"اللاعب اللذي لم يظفر ارسنال بجهوده ظفر به نادي دهوكتعاقد نادي دهوك مع لاعب نادي اندية برايتون الإنكليزي و مالمو و اوريبرو السويديين والمنتخب العراقي پيتر گورگيس .",
+       "english:"English",
+       "englishh":"The player Arsenal FC couldn't secure is now joining Duhok FC! The former player of English Brighton FC, Swedish clubs Malmo and Örebro, and the Iraq National Football Team, Peter Gwargis, has chosen Duhok FC as his next destination."
        
   
   },
