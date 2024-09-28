@@ -4,7 +4,7 @@
   
   {
     "id": 1,
-    "ger":"گەرا ئێکێ ژ خولا ستێرێن ئێراقێ",
+    "ger":"گەڕا ئێکێ ژ خولا ستێرێن ئێراقێ",
     "logo":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Flogoiraq.PNG?alt=media&token=0967cd50-bd97-4a83-854e-5659dab54613",
     "ruj":"ئەینی",
     "tarix":"2024/09/20",
@@ -17,7 +17,7 @@
   },
      {
     "id": 2,
-    "ger":"گەرا دووێ ژ خولا ستێرێن ئێراقێ",
+    "ger":"گەڕا دووێ ژ خولا ستێرێن ئێراقێ",
     "logo":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Flogoiraq.PNG?alt=media&token=0967cd50-bd97-4a83-854e-5659dab54613",
     "ruj":"ئەینی",
     "tarix":"2024/09/27",
@@ -25,7 +25,7 @@
     "nt1":" دهۆک",
     "wext":"0-1",
     "nt2":"هەولێر",
-     "t2":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Ferbillpng.PNG?alt=media&token=bdd4cb6c-ea70-4b7e-91ec-239980f031db"
+     "t2":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Ferbillpng-removebg-preview.png?alt=media&token=bbee6037-b015-424b-b412-6b0282cb705c"
    
   }
  
