@@ -25,7 +25,7 @@
     "nt1":" دهۆک",
     "wext":"0-1",
     "nt2":"هەولێر",
-     "t2":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Ferbil00.jpg?alt=media&token=3453074a-7d1a-4cb2-a689-013551eedb2d"
+     "t2":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Ferbillpng.PNG?alt=media&token=bdd4cb6c-ea70-4b7e-91ec-239980f031db"
    
   }
  
