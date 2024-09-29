@@ -43,6 +43,20 @@
      "t2":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2FIMG_8241.PNG?alt=media&token=711c5dac-0f3a-42ff-bb92-991103845698",
           "dum":"دوماهیک"
    
+  },
+   {
+    "id": 4,
+    "ger":"گەڕا چارێ ژ خولا ستێرێن ئێراقێ",
+    "logo":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Flogoiraq.PNG?alt=media&token=0967cd50-bd97-4a83-854e-5659dab54613",
+    "ruj":"شەمبی",
+    "tarix":"2024/10/26",
+    "t1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2FIMG_8241.PNG?alt=media&token=711c5dac-0f3a-42ff-bb92-991103845698",
+    "nt1":" دهۆک",
+    "wext":"04:00",
+    "nt2":"الكهرباء",
+     "t2":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Falkhrba.PNG?alt=media&token=f4f563de-c55d-4507-a84e-d79a16fba193",
+          "dum":"دوماهیک"
+   
   }
  
  
