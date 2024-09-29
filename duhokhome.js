@@ -29,7 +29,22 @@
      "t2":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Ferbillpng-removebg-preview.png?alt=media&token=bbee6037-b015-424b-b412-6b0282cb705c",
           "dum":"دوماهیک"
    
+  },
+     {
+    "id": 2,
+    "ger":"گەڕا سیێ ژ خولا ستێرێن ئێراقێ",
+    "logo":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Flogoiraq.PNG?alt=media&token=0967cd50-bd97-4a83-854e-5659dab54613",
+    "ruj":"ئێك شەمب",
+    "tarix":"2024/10/06",
+    "t1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2FIMG_8241.PNG?alt=media&token=711c5dac-0f3a-42ff-bb92-991103845698",
+    "nt1":" النجف",
+    "wext":"06:00",
+    "nt2":"دهۆک",
+     "t2":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2FIMG_8241.PNG?alt=media&token=711c5dac-0f3a-42ff-bb92-991103845698",
+          "dum":"دوماهیک"
+   
   }
+ 
  
  
 
