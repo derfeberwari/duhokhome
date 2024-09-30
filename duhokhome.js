@@ -44,8 +44,22 @@
           "dum":"دوماهیک"
    
   },
-   {
+    {
     "id": 4,
+    "ger":"کۆپا یانەیێن کەنداڤی",
+    "logo":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fcopa.PNG?alt=media&token=d719dca8-55bc-4db4-aea9-3d8de2485cb5",
+    "ruj":"سێ شەمب",
+    "tarix":"2024/10/22",
+    "t1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2FIMG_8241.PNG?alt=media&token=711c5dac-0f3a-42ff-bb92-991103845698",
+    "nt1":" دهۆک",
+    "wext":"07:00",
+    "nt2":"أهلي صنعاء",
+     "t2":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Fahli.PNG?alt=media&token=a4edb3d6-67cf-43fe-9359-3231b9f03ae6",
+          "dum":"دوماهیک"
+   
+  },
+   {
+    "id": 5,
     "ger":"گەڕا چارێ ژ خولا ستێرێن ئێراقێ",
     "logo":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Flogoiraq.PNG?alt=media&token=0967cd50-bd97-4a83-854e-5659dab54613",
     "ruj":"شەمبی",
