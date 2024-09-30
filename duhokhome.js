@@ -71,6 +71,20 @@
      "t2":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2Falkhrba.PNG?alt=media&token=f4f563de-c55d-4507-a84e-d79a16fba193",
           "dum":"دوماهیک"
    
+  },
+     {
+    "id": 5,
+    "ger":"",
+    "logo":"",
+    "ruj":"",
+    "tarix":"",
+    "t1":"",
+    "nt1":"",
+    "wext":"",
+    "nt2":"",
+     "t2":"",
+          
+   
   }
  
  
