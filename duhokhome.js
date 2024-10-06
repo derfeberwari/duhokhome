@@ -38,7 +38,7 @@
     "tarix":"2024/10/06",
     "t1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fduhok%2FIMG_8318-removebg-preview.png?alt=media&token=d67aed39-af91-4e73-9152-632fd4802a4f",
     "nt1":" النجف",
-    "wext":"06:00",
+    "wext":"0-1",
     "nt2":"دهۆک",
      "t2":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2FIMG_8241.PNG?alt=media&token=711c5dac-0f3a-42ff-bb92-991103845698",
           "dum":"دوماهیک"
